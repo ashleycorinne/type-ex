@@ -10,6 +10,10 @@ html{
 }
 .title{
 	color: #d7c5bc;
+	font-size: 50px;
+}
+.header{
+	color:#d7c5bc;
 }
 .paragraph{
 	color: #737572;
